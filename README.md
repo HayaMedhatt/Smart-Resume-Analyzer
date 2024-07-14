@@ -1,6 +1,6 @@
 # 🚀 **AI-Powered Resume Analyzer, Skill Recommender, and Course Advisor** 🌟
 
-Welcome to the Future of Talent Acquisition and Skill Development! 🎉
+## Welcome to the Future of Talent Acquisition and Skill Development! 🎉
 
 # Project Overview:
 In today's fast-paced world, finding the right job and developing the necessary skills can be challenging. Our AI-Powered Resume Analyzer, Skill Recommender, and Course Advisor leverages state-of-the-art Natural Language Processing (NLP) and Deep Learning models to streamline this process, making it efficient, accurate, and highly personalized.
