@@ -12,7 +12,7 @@ summarizer = pipeline(task="summarization", model="facebook/bart-large-cnn")
 job_recommender = pipeline("text-classification", model="Apizhai/Albert-IT-JobRecommendation")
 
 # Configure the API key for Gemini
-genai.configure(api_key='AIzaSyD7hATYcZDC18hhQYGlBGJt1gYN32Sn8EE')
+genai.configure(api_key='') # add your API key
 
 # Configuration for text generation
 generation_config = {
