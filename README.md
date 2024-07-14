@@ -1,11 +1,11 @@
-# Smart-Resume-Analyzer
-# Intelligent CV Analyzer and Job Matcher
-This project is a web application designed to simplify the job application process using advanced NLP and AI technologies. Users can upload their CVs in PDF format, and the system will extract relevant information using Named Entity Recognition (NER) and provide a summary. Additionally, the application utilizes the Gemini API to offer personalized job recommendations based on the extracted information. For each job recommendation, the system also suggests skills to improve and courses to enhance the user's qualifications.
+#🚀 AI-Powered Resume Analyzer, Skill Recommender, and Course Advisor 🌟
+Welcome to the Future of Talent Acquisition and Skill Development! 🎉
+#Project Overview:
+In today's fast-paced world, finding the right job and developing the necessary skills can be challenging. Our AI-Powered Resume Analyzer, Skill Recommender, and Course Advisor leverages state-of-the-art Natural Language Processing (NLP) and Deep Learning models to streamline this process, making it efficient, accurate, and highly personalized.
 
-# Key Features:
-CV Upload and Parsing: Upload CVs in PDF format and extract key information (name, contact details, education, work experience, skills, certifications) using NER.
-
-CV Summarization: Generate a concise summary of the extracted information.
-
-Job Recommendations: Use the Gemini API to provide personalized job recommendations along with skill improvement suggestions and relevant courses.
-This
+#✨ Key Features:
+🔍 Resume Parsing: Extracts key information from resumes including Designations, Skills, Work Experience, and more.
+💡 Skill Recommendation: Predicts the most relevant skills needed for specific designations, helping candidates and recruiters understand the best fit.
+📈 Deep Learning Models: Utilizes advanced models like Spacy for Named Entity Recognition and Transformers for skill prediction.
+🎓 Course Recommendations: Suggests online courses and resources to bridge skill gaps and enhance professional development.
+🖥️ User-Friendly Web Interface: An intuitive web app where users can upload their resumes and receive detailed analysis, recommendations, and course suggestions instantly.
