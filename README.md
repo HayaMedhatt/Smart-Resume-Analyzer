@@ -1,4 +1,4 @@
-🚀AI-Powered Resume Analyzer, Skill Recommender, and Course Advisor 🌟
+# 🚀AI-Powered Resume Analyzer, Skill Recommender, and Course Advisor 🌟
 
 Welcome to the Future of Talent Acquisition and Skill Development! 🎉
 
