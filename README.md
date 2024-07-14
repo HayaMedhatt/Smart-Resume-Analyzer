@@ -1,11 +1,11 @@
-🚀# AI-Powered Resume Analyzer, Skill Recommender, and Course Advisor 🌟
+🚀AI-Powered Resume Analyzer, Skill Recommender, and Course Advisor 🌟
 
 Welcome to the Future of Talent Acquisition and Skill Development! 🎉
 
 # Project Overview:
 In today's fast-paced world, finding the right job and developing the necessary skills can be challenging. Our AI-Powered Resume Analyzer, Skill Recommender, and Course Advisor leverages state-of-the-art Natural Language Processing (NLP) and Deep Learning models to streamline this process, making it efficient, accurate, and highly personalized.
 
-✨# Key Features:
+✨ Key Features:
 🔍 Resume Parsing: Extracts key information from resumes including Designations, Skills, Work Experience, and more.
 
 💡 Skill Recommendation: Predicts the most relevant skills needed for specific designations, helping candidates and recruiters understand the best fit.
